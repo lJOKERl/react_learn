@@ -1,0 +1,8 @@
+.messages {
+  padding: 1em;
+}
+.messages h3 {
+  margin-top: 0;
+  font-weight: 500;
+  color: #404040;
+}
